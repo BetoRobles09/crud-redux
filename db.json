@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Black Tea",
+      "price": "1.5",
+      "id": 7
+    },
+    {
+      "name": "Green Tea",
+      "price": 3,
+      "id": 8
+    },
+    {
+      "name": "Toast",
+      "price": "3",
+      "id": 9
+    },
+    {
+      "name": "Salad",
+      "price": "12",
+      "id": 10
+    },
+    {
+      "name": "Steak",
+      "price": 27,
+      "id": 11
+    }
+  ]
+}
